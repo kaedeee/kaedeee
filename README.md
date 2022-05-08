@@ -4,7 +4,7 @@
 <h2 align="center">Kaede Games</h2>
 
 <p align="center">
-  <a href="https://games.kaedeee.com"><img src="https://〜.png" width="80px;" /></a>
+  <a href="https://games.kaedeee.com"><img src="https://play-lh.googleusercontent.com/L2i2Ye85B0NqFwwJUuSyAtmCzMQF0O3RABWBjhPaj32CagXygLWZRij2kmiwqZQD7DQ=w288-h288-n" width="80px;" /></a>
   <br>
   <a href="https://twitter.com/kaedeee_you"><img src="https://〜.png" height="45px;" /></a>
 </p>
