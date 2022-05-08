@@ -1,10 +1,11 @@
 ![](https://play-lh.googleusercontent.com/qsWRxbwTAWlyy2mUE4UDcnRvrSolSTHOTqVq_Jk8c6bn42EzFjrFO5zSTMLJe7TdXLOj=w4494-h2528)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://kaedeee.xsrv.jp"><img src="https://user-images.githubusercontent.com/55743370/167286984-5e9d4075-6470-40af-b35b-cd23f7a9251a.png" width="100px;" /></a>
-</p>
+</p> -->
   
 <h1 align="center">Kaede Games</h1>
+<p align="center">500K+ download.</p>
 
 <p align="center">
   <a href="https://bit.ly/kaedapple"><img src="https://user-images.githubusercontent.com/55743370/167287228-998174e7-6b66-4725-b9eb-0ba3e894769b.png" height="45px;" /></a>
