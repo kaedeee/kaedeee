@@ -1,5 +1,4 @@
-![feature](https://user-images.githubusercontent.com/55743370/167755616-80f7b9e3-8866-496a-a621-2f842930e6cb.jpeg)
-
+![feature](https://user-images.githubusercontent.com/55743370/201122782-01684724-aa0f-4b7a-999a-a98648fdf160.png)
 
 <!-- <p align="center">
   <a href="https://kaedeee.xsrv.jp"><img src="https://user-images.githubusercontent.com/55743370/167286984-5e9d4075-6470-40af-b35b-cd23f7a9251a.png" width="100px;" /></a>
