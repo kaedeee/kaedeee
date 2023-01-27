@@ -5,7 +5,7 @@
 </p> -->
   
 <h1 align="center">Kaede Games</h1>
-<p align="center">500K+ install</p>
+<p align="center">over 1M+ install now!</p>
 
 <p align="center">
   <a href="https://bit.ly/kaedapple"><img src="https://user-images.githubusercontent.com/55743370/167287228-998174e7-6b66-4725-b9eb-0ba3e894769b.png" height="45px;" /></a>
