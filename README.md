@@ -1,9 +1,9 @@
 ![feature](https://user-images.githubusercontent.com/55743370/201122782-01684724-aa0f-4b7a-999a-a98648fdf160.png)
 
 <!-- <p align="center">
-  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/167286984-5e9d4075-6470-40af-b35b-cd23f7a9251a.png" width="100px;" /></a>
+  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223031613-9c2b32cf-a889-45b0-b35d-47d6bf5283de.png" width="100px;" /></a>
 </p> -->
-  
+
 <h1 align="center">Kaede Games</h1>
 <p align="center">1M+ install</p>
 
