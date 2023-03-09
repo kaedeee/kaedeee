@@ -19,8 +19,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223034184-a7a18748-13bf-4f36-8b8e-59084f8a0f09.gif" width="100px;" /></a>
-  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223926248-579afc5f-2bcf-4826-b84c-979a003afb0c.gif" width="100px;" /></a>
+  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223034184-a7a18748-13bf-4f36-8b8e-59084f8a0f09.gif" width="50px;" /></a>
+  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223926248-579afc5f-2bcf-4826-b84c-979a003afb0c.gif" width="50px;" /></a>
   
 </p>
 
