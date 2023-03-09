@@ -8,8 +8,8 @@
 <p align="center">1M+ install</p>
 
 <p align="center">
-  <a href="https://bit.ly/kaedapple"><img src="https://user-images.githubusercontent.com/55743370/167287228-998174e7-6b66-4725-b9eb-0ba3e894769b.png" height="45px;" /></a>
-  <a href="https://bit.ly/kaedroid"><img src="https://user-images.githubusercontent.com/55743370/167287231-46761cba-3f9c-4a49-9a6b-dd61ee086d7e.png" height="45px;" /></a>
+  <a href="https://bit.ly/kaedapple"><img src="https://user-images.githubusercontent.com/55743370/167287228-998174e7-6b66-4725-b9eb-0ba3e894769b.png" height="45px;"/></a>
+  <a href="https://bit.ly/kaedroid"><img src="https://user-images.githubusercontent.com/55743370/167287231-46761cba-3f9c-4a49-9a6b-dd61ee086d7e.png" height="45px;"/></a>
 </p>
 
 <!-- ![](https://play-lh.googleusercontent.com/IpWyp8IXKj2sC3LWqynnFQF5UR-GIV51zFA-ELF1gMcaek1b9DFIjctkp-Zr9_xQjmiW=w1440-h620)
@@ -19,8 +19,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223034184-a7a18748-13bf-4f36-8b8e-59084f8a0f09.gif" width="50px;" /></a>
-  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223926248-579afc5f-2bcf-4826-b84c-979a003afb0c.gif" width="50px;" /></a>
+  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223034184-a7a18748-13bf-4f36-8b8e-59084f8a0f09.gif" height="100px;"/></a>
+  <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223926248-579afc5f-2bcf-4826-b84c-979a003afb0c.gif" height="100px;"/></a>
   
 </p>
 
