@@ -23,4 +23,3 @@
 </p>
 
 ![🎮 Kaede Games](https://img.shields.io/badge/🎮%20Kaede%20Games-white.svg?style=for-the-badge&logoColor=white&labelColor=white)
-![Visitor Count](https://profile-counter.glitch.me/kaedeee/count.svg)
