@@ -21,7 +21,14 @@
 <p align="center">
   <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223034184-a7a18748-13bf-4f36-8b8e-59084f8a0f09.gif" width="40%;"/></a>
   <a href="https://games.kaedeee.com"><img src="https://user-images.githubusercontent.com/55743370/223926248-579afc5f-2bcf-4826-b84c-979a003afb0c.gif" width="40%;"/></a>
-  
 </p>
 
 ![🎮 Kaede Games](https://img.shields.io/badge/🎮%20Kaede%20Games-white.svg?style=for-the-badge&logoColor=white&labelColor=white)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,cs,css,dart,devto,discord,eclipse,emacs,figma,firebase,flask,flutter,gcp,github,html,instagram,js,jest,lua,md,mysql,nginx,nodejs,ps,py,raspberrypi,react,swift,twitter,ts,unity,vim,visualstudio,vscode,wordpress," />
+  </a>
+</p>
+
